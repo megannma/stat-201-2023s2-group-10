@@ -7,11 +7,11 @@ Bike sharing has become a widely adopted means of transportation in urban areas,
 
 Seasons play a significant role in bike sharing usage, as people tend to be more inclined to ride bikes during warmer months. Moreover, the distinction between working days and holidays can also influence bike sharing demand, as people's transportation needs differ on these occasions. Additionally, temperature emerges as a crucial factor affecting bike sharing usage; extreme heat or cold may deter people from opting for bikes. In conclusion, the Bike Sharing Dataset provides essential insights into how seasons, working days versus holidays, and temperature can influence bike sharing demand. 
 
-## Task
+### Task
 
 Analyzing this data enables us to gain a deeper understanding of the factors influencing bike sharing usage and offers valuable information for enhancing bike sharing systems to better cater to user needs.
 
-# Dataset
+## Dataset
 
 The dataset is from UC Irvine Machine Learning Repository. 
 
