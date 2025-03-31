@@ -13,6 +13,7 @@ In conclusion, the Bike Sharing Dataset provides essential insights into how sea
 The dataset is from UC Irvine Machine Learning Repository. 
 
 Link: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+
 Citation: Fanaee-T, H. (2013). Bike Sharing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5W894.
 
 This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
